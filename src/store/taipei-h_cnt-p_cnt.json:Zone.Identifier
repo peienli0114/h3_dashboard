@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://10.100.2.218:2891/swagger/index.html
+HostUrl=http://10.100.2.218:2891/
